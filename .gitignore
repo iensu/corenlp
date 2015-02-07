@@ -10,6 +10,6 @@ pom.xml.asc
 .hgignore
 .hg/
 resources/models
-test_perf.clj
+perf-check.clj
 doc
 test
